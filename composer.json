@@ -2,6 +2,9 @@
     "name": "bshaffer/grpc-php-ext",
     "description": "testing the gRPC PHP Extension",
     "type": "php-ext",
+    "php-ext": {
+        "extension-name": "bshaffergrpctesting"
+    },
     "require": {
         "php-pie/pie-interface": "^1.0"
     }
