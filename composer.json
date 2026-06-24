@@ -4,9 +4,6 @@
     "type": "php-ext",
     "php-ext": {
         "extension-name": "bshaffergrpctesting"
-    },
-    "require": {
-        "php-pie/pie-interface": "^1.0"
     }
 }
 
