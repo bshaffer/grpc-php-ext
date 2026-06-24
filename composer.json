@@ -2,8 +2,10 @@
     "name": "bshaffer/grpc-php-ext",
     "description": "testing the gRPC PHP Extension",
     "type": "php-ext",
+    "require": {
+        "php": ">=8.0"
+    },
     "php-ext": {
         "extension-name": "bshaffergrpctesting"
     }
 }
-
