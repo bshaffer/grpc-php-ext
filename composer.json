@@ -1,14 +1,9 @@
 {
-    "name": "grpc/grpc-php-ext",
-    "description": "gRPC PHP Extension",
+    "name": "bshaffer/grpc-php-ext",
+    "description": "testing the gRPC PHP Extension",
     "type": "php-extension",
     "require": {
         "php-pie/pie-interface": "^1.0"
-    },
-    "extra": {
-        "pie": {
-            "extension-name": "betterbrent-grpc"
-        }
     }
 }
 
